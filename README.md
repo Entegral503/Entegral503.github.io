@@ -13,6 +13,7 @@
 
 ## About Me
 Born in 1997 - Based in Turkey.
+
 Writer / Translator / Editor with three years of experience in video game industry.
 
 Bachelor's Degree on English Philology.
