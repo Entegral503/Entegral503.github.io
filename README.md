@@ -1,8 +1,3 @@
-# Muhammed Semih Çavuş
-## CV & Portfolio
-
-## Table of Contents
-
 - [About Me](#about-me)
 - [Projects](#projects)
   - [Kardiya v.0](#kardiya-v.0)
