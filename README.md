@@ -35,7 +35,7 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 **Type:** Video Game - Visual Novel + FATE RPG Ruleset - (Demo)
 
-**Status:** Discontinued - Evolved into ([Kardiya: The Winds of Fate.](https://store.steampowered.com/app/3189020/Kardiya_The_Winds_of_Fate/))
+**Status:** Discontinued - Evolved into [Kardiya](https://store.steampowered.com/app/3189020/Kardiya_The_Winds_of_Fate/)
 
 *The debut video game project for [InEv Games](https://www.inevgames.com). A visual novel combined with some FATE RPG elements, similar to [Sir Brante.](https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/) Did not progress beyond the prototyping phase.*
 
