@@ -42,9 +42,9 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 **Status:** Discontinued - Evolved into ([Kardiya: The Winds of Fate.](https://store.steampowered.com/app/3189020/Kardiya_The_Winds_of_Fate/))
 
-*The debut video game project for [InEv Games](https://www.inevgames.com). A visual novel combined with some FATE RPG elements, similar to [Sir Brante.](https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/) Did not progress beyond the prototyping phase.
+*The debut video game project for [InEv Games](https://www.inevgames.com). A visual novel combined with some FATE RPG elements, similar to [Sir Brante.](https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/) Did not progress beyond the prototyping phase.*
 
-I co-authored the in-game text and localised the entire narrative into English. The total text was around 50,000 words. However, the narrative of Kardiya v.0 changed several times, hence new writing and new localisation.*
+*I co-authored the in-game text and localised the entire narrative into English. The total text was around 50,000 words. However, the narrative of Kardiya v.0 changed several times, hence new writing and new localisation.*
 
 [Kardiya v.0](https://youtu.be/bPxQdgNtqS0?si=1g4FITOwBPfpjb3l)
 
@@ -90,9 +90,9 @@ I co-authored the in-game text and localised the entire narrative into English. 
 
 [Kardiya](https://store.steampowered.com/app/3189020/Kardiya_The_Winds_of_Fate/)
 
-*As a writer, I design the macro-narrative architecture, tone, and worldbuilding for Kardiya: The Winds of Fate. I am responsible for writing the early stage drafts, designing character profiles, scene-specific incidents, and core narrative beats.
+*As a writer, I design the macro-narrative architecture, tone, and worldbuilding for Kardiya: The Winds of Fate. I am responsible for writing the early stage drafts, designing character profiles, scene-specific incidents, and core narrative beats.*
 
-As the chapters are finalised and integrated into Unity, I localise the content into English.*
+*As the chapters are finalised and integrated into Unity, I localise the content into English.*
 
 ---
 
