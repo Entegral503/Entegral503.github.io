@@ -58,11 +58,11 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 **Status:** Published - Available on Steam
 
+*The project totals 70,000 words. I copy-edited the Turkish script, and localised both the main game and ten supplementary short stories for the companion Artbook.*
+
 [Livber](https://store.steampowered.com/app/3700580/Livber_Smoke_and_Mirrors/)
 
 [Livber Artbook](https://drive.google.com/file/d/1aaxyO9hdG_FtTQV8Q--VwfWsaZvnDo3N/view?usp=sharing)
-
-*The project totals 70,000 words. I copy-edited the Turkish script, and localised both the main game and ten supplementary short stories for the companion Artbook.*
 
 ---
 
@@ -74,9 +74,9 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 **Status:** Early Access - Available on Steam
 
-[Milord](https://store.steampowered.com/app/2455460/Milord)
-
 *I wrote the primary narrative design document from the ground up, as well as in-game peasant petitions. I am currently localising the in-game text into 12 languages using AI workflows.*
+
+[Milord](https://store.steampowered.com/app/2455460/Milord)
 
 ---
 
@@ -88,11 +88,11 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 **Status:** Work in Progress - Steam page live
 
-[Kardiya](https://store.steampowered.com/app/3189020/Kardiya_The_Winds_of_Fate/)
-
 *As a writer, I design the macro-narrative architecture, tone, and worldbuilding for Kardiya: The Winds of Fate. I am responsible for writing the early stage drafts, designing character profiles, scene-specific incidents, and core narrative beats.*
 
 *As the chapters are finalised and integrated into Unity, I localise the content into English.*
+
+[Kardiya](https://store.steampowered.com/app/3189020/Kardiya_The_Winds_of_Fate/)
 
 ---
 
