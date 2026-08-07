@@ -9,7 +9,7 @@
   - [Livber: Smoke and Mirrors](#livber-smoke-and-mirrors)
   - [Milord](#milord)
   - [Kardiya: The Winds of Fate](#kardiya-the-winds-of-fate)
-  - [Ursula la Seule](#ursula-la-seule)  - 
+  - [Ursula la Seule](#ursula-la-seule)
 ---
 
 ### m.semihcavus@gmail.com
