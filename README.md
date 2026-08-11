@@ -18,11 +18,11 @@ Open to new opportunities and collaborations (✔)
 
 Born in 1997 - Based in Turkey - BA in English Philology
 
-I am a writer and translator working primarily within the video games industry. Over the past three years, I have provided in-house editing, localisation, and narrative writing for story-driven titles at [InEv Games.](https://www.inevgames.com)
+I am a writer and translator working primarily within the video games industry. Over the past three years, I have provided narrative writing, localisation, and in-house editing for story-driven titles at [InEv Games.](https://www.inevgames.com)
 
 I am experienced in building branching narratives using [Articy:Draft](https://www.articy.com/en/) and [Twine](https://twinery.org). Currently learning [Dialogic 2](https://github.com/dialogic-godot/dialogic).
 
-For game localisation, I work both English → Turkish and Turkish → English, typically through .csv files and Google Sheets. Currently learning [Crowdin.](https://crowdin.com/blog/category/localization)
+For game localisation, I work both English → Turkish and Turkish → English, typically through .csv files and Google Sheets. Currently learning a CAT tool: [Crowdin.](https://crowdin.com/blog/category/localization)
 
 ---
 
@@ -40,9 +40,9 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 *The debut video game project for [InEv Games](https://www.inevgames.com). A visual novel combined with some FATE RPG elements, similar to [Sir Brante.](https://store.steampowered.com/app/1272160/The_Life_and_Suffering_of_Sir_Brante/) Did not progress beyond the prototyping phase.*
 
-*I co-authored the in-game text and localised the entire narrative into English. The total text was around 50,000 words. However, the narrative of Kardiya v.0 changed several times, hence new writing and new localisation.*
+*I co-authored the in-game text and localised the entire narrative into English. The total text was around 50,000 words. However, the narrative of this early version of Kardiya changed several times, hence new writing and new localisation.*
 
-[Kardiya v.0](https://youtu.be/bPxQdgNtqS0?si=1g4FITOwBPfpjb3l)
+[Kardiya Demo](https://youtu.be/bPxQdgNtqS0?si=1g4FITOwBPfpjb3l)
 
 ---
 
@@ -84,7 +84,7 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 **Status:** Work in Progress - Steam page live
 
-*I design the macro-narrative architecture, tone, and worldbuilding for Kardiya: The Winds of Fate. I am responsible for writing the early stage drafts, designing character profiles, scene-specific incidents, and core narrative beats.*
+*I am responsible for writing the early stage drafts, designing character profiles, scene-specific events, and core narrative beats.*
 
 *As the chapters are finalised and integrated into Unity, I localise the content into English.*
 
@@ -94,7 +94,7 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 ### Ursula la Seule
 
-**Role:** Writer / Project Manager
+**Role:** Narrative Designer / Project Manager
 
 **Type:** Video Game - Visual Novel
 
