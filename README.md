@@ -83,7 +83,7 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 **Status:** Work in Progress - Steam page live
 
-*As a writer, I design the macro-narrative architecture, tone, and worldbuilding for Kardiya: The Winds of Fate. I am responsible for writing the early stage drafts, designing character profiles, scene-specific incidents, and core narrative beats.*
+*I design the macro-narrative architecture, tone, and worldbuilding for Kardiya: The Winds of Fate. I am responsible for writing the early stage drafts, designing character profiles, scene-specific incidents, and core narrative beats.*
 
 *As the chapters are finalised and integrated into Unity, I localise the content into English.*
 
