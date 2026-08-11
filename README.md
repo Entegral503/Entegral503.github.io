@@ -5,6 +5,7 @@
   - [Milord](#milord)
   - [Kardiya: The Winds of Fate](#kardiya-the-winds-of-fate)
   - [Ursula la Seule](#ursula-la-seule)
+  - [Untitled Sci-Fi Novella](#untitled-sci-fi-novella)
 
 ---
 
@@ -102,3 +103,17 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 *Ursula la Seule is an alternate history visual novel. Set in 14th-century France, it follows the collapse of society during the Hundred Years' War, the Great Famine, the Black Death, and the Jacquerie of 1358. The game is currently in the early stages of development.*
 
 [Ursula](https://worksiprofess.blogspot.com/2026/08/wip-1-project-jeanne-and-ursula-la-seule.html)
+
+---
+
+### Untitled Sci-Fi Novella
+
+**Role:** Author
+
+**Type:** Novella
+
+**Status:** Work in Progress
+
+*A Sci-Fi novella in which I try to implement the spiral story structure.*
+
+[Untitled Sci-Fi Novella](https://worksiprofess.blogspot.com/2026/08/untitled-sci-fi-novella.html)
