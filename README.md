@@ -1,6 +1,6 @@
 - [About Me](#about-me)
 - [Projects](#projects)
-  - [Kardiya v.0](#kardiya-v.0)
+  - [Kardiya Demo](#kardiya-demo)
   - [Livber: Smoke and Mirrors](#livber-smoke-and-mirrors)
   - [Milord](#milord)
   - [Kardiya: The Winds of Fate](#kardiya-the-winds-of-fate)
@@ -29,7 +29,7 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 ---
 
-### Kardiya v.0
+### Kardiya Demo
 
 **Role:** Co-author / Translator
 
