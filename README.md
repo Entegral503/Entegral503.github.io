@@ -1,9 +1,9 @@
 - [About Me](#about-me)
 - [Projects](#projects)
   - [Kardiya Demo](#kardiya-demo)
-  - [Livber: Smoke and Mirrors](#livber-smoke-and-mirrors)
-  - [Milord](#milord)
-  - [Kardiya: The Winds of Fate](#kardiya-the-winds-of-fate)
+  - [Livber: Smoke and Mirrors *](#livber-smoke-and-mirrors)
+  - [Milord *](#milord)
+  - [Kardiya: The Winds of Fate *](#kardiya-the-winds-of-fate)
   - [Ursula la Seule](#ursula-la-seule)
   - [Untitled Sci-Fi Novella](#untitled-sci-fi-novella)
 
