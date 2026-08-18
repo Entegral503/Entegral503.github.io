@@ -1,1 +1,1 @@
-[View my Portfolio](./portfolio/)
+[Portfolio](./portfolio/)
