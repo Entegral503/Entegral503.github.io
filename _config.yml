@@ -4,10 +4,3 @@ plugins:
 
 title: Semih Çavuş
 description: odi et intelligo
-
-# Global Header Navigation
-header_pages:
-  - index.md
-  - portfolio/index.md
-  - blog/index.md
-  - works/index.md
