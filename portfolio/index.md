@@ -117,3 +117,9 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 *A Sci-Fi novella in which I try to implement the spiral story structure.*
 
 [Untitled Sci-Fi Novella](https://worksiprofess.blogspot.com/2026/08/untitled-sci-fi-novella.html)
+
+---
+
+[Home](/) | [Portfolio](/portfolio/) | [Blog](/blog/) | [Works](/works/)
+
+---
