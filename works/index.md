@@ -88,6 +88,6 @@
 
 ---
 
-[Home](/) | [Portfolio](/portfolio/) | [Blog](/blog/) | [Works](/works/)
+[Home](/) | [Blog](/blog/) | [Portfolio](/portfolio/) | [Works](/works/)
 
 ---
