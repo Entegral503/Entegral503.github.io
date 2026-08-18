@@ -3,3 +3,5 @@
 [Works (Portfolio for the lazy.)](./works/)
 
 [Blog](./blog/)
+
+[Contact](./contact/)
