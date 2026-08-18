@@ -2,6 +2,6 @@ Nothing yet...
 
 ---
 
-[Home](/) | [Blog](/blog/) | [Portfolio](/portfolio/) | [Works](/works/)
+[Home](/) | [Blog](/blog/) | [Contact](/contact/) | [Portfolio](/portfolio/) | [Works](/works/)
 
 ---
