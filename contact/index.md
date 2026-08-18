@@ -1,5 +1,10 @@
 Muhammed Semih Çavuş
-m.semihcavus@gmail.com
+
+**Email:** [m.semihcavus@gmail.com](mailto:m.semihcavus@gmail.com)
+
+**LinkedIn:** [linkedin.com/in/semih-çavuş-a08321297](https://www.linkedin.com/in/semih-çavuş-a08321297/)
+
+**Instagram:** [@msemihcavus](https://www.instagram.com/msemihcavus)
 
 ---
 
