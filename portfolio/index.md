@@ -16,7 +16,7 @@ Open to new opportunities and collaborations (✔)
 
 ## About Me
 
-Born in 1997 - Based in Turkey - BA in English Philology
+Born in 1997 - Based in Turkey - BA in English Philology - MA in Applied Linguistics (Quit after the coursework year.)
 
 I am a writer and translator working primarily within the video games industry. Over the past three years, I have provided narrative writing, localisation, and in-house editing for story-driven titles at [InEv Games.](https://www.inevgames.com)
 
