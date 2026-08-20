@@ -1,6 +1,6 @@
-Eight - Three - The Wisest of Numbers
+***Eight - Three - The Wisest of Numbers***
 
-I set out to write eight encounters this week, but only wrote three. You know, "that's life," and May is just around the corner.
+*I set out to write eight encounters this week, but only wrote three. You know, "that's life," and May is just around the corner.*
 
 I've been reading Ursula K. Le Guin's non-fiction works lately, they make me feel at home. I'm not sure why; there's just something about her conversational style. She feels like an old friend.
 Today I also learned that both the idea behind Bram Stoker's Dracula, aside from folklore and Carmilla, and the concept of "school of magic" are based on an article Emily Gerard wrote after living in Transylvania for two years collecting folk beliefs.
