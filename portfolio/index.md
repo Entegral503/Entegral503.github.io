@@ -120,6 +120,6 @@ For game localisation, I work both English → Turkish and Turkish → English, 
 
 ---
 
-[Home](/) | [Blog](/blog/) | [Contact](/contact/) | [Portfolio](/portfolio/) | [Works](/works/)
+[Home](/) | [Blog](/blog/) | [Portfolio](/portfolio/)
 
 ---
