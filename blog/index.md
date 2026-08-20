@@ -1,4 +1,4 @@
-[Semih Patreon 2.txt](index.md)
+[Semih Patreon 2](Semih Patreon 2.md)
 
 
 ---
