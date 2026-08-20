@@ -1,4 +1,4 @@
-[Semih Patreon 2](Kardiya%20Narrative%20Log/Semih-Patreon-2.md)
+[Semih Patreon 2](Kardiya-Narrative-Log/Semih-Patreon-2.md)
 
 
 ---
