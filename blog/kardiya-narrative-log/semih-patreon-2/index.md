@@ -51,5 +51,3 @@ The bow slowly lowers. The man’s gaze stays locked on me. The lines of his fac
 Without waiting for an answer, he adds:
 
 "Come here. The Bakters... they've gone crazy."
-
-*The book in the painting is Poe's The Narrative of Arthur Gordon Pym of Nantucket.
