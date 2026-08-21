@@ -1,4 +1,4 @@
-[Kardiya Narrative Log](Kardiya-Narrative-Log)
+[Kardiya Narrative Log](kardiya-narrative-log/)
 
 ---
 
