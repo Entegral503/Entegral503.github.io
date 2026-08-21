@@ -1,4 +1,4 @@
-[Semih Patreon 2](Semih-Patreon-2)
+[Semih Patreon 2](semih-patreon-2/)
 
 ---
 
