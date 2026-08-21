@@ -22,8 +22,6 @@ Socials
 
 ---
 
-***Please make yourself at home.***
-
 [Portfolio](./portfolio/)
 
 [Blog](./blog/)
